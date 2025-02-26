@@ -60,4 +60,4 @@
 
 ### 🎨what can you find here:
 
-> "projects on machine learning and many more.. "
+> "projects on machine learning and many more soon.. "
