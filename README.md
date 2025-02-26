@@ -58,7 +58,7 @@
 ### 💖 Profile Picture:
 
 <p align="center">
-  <img src="YOUR_PROFILE_PICTURE_URL" width="150px"/>
+  <img src="https://avatars.githubusercontent.com/u/117076934?v=4" width="150px"/>
 </p>
 
 ---
