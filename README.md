@@ -1,16 +1,65 @@
-## Hi there 👋
+## Hi 👋! My name is Harsha Jain and I'm a 3rd year engineering student working on Artificial Intelligence & Machine Learning from India.
 
-<!--
-**Alexrdj11/Alexrdj11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📊 GitHub Stats:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alexrdj11&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexrdj11&layout=compact&theme=radical" alt="Most Used Languages" width="48%"/>
+</p>
+
+---
+
+### 🚀 Technologies & Tools:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+</p>
+
+---
+
+### 📫 Connect with me:
+
+<p align="center">
+  <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://discord.com/YOUR_SERVER_INVITE" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 📈 GitHub Contribution Graph:
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alexrdj11&theme=react-dark" alt="GitHub Contribution Graph" />
+</p>
+
+---
+
+### 💖 Profile Picture:
+
+<p align="center">
+  <img src="YOUR_PROFILE_PICTURE_URL" width="150px"/>
+</p>
+
+---
+
+### 🎨 Fun Fact:
+
+> "YOUR_QUOTE_OR_FACT_HERE"
