@@ -31,7 +31,7 @@
 ### 📫 Connect with me:
 
 <p align="center">
-  <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
+  <a href="https://instagram.com/hj_hj0502" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://discord.com/YOUR_SERVER_INVITE" target="_blank">
