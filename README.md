@@ -52,12 +52,12 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alexrdj11&theme=react-dark" alt="GitHub Contribution Graph" />
 </p>
-<p align="center">
+<p align="left">
   <img src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif" width="250px"/>
 </p>
 
 ---
 
-### 🎨 Fun Fact:
+### 🎨what can you find here:
 
-> "YOUR_QUOTE_OR_FACT_HERE"
+> "projects on machine learning and many more.. "
