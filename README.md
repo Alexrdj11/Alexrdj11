@@ -52,13 +52,8 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alexrdj11&theme=react-dark" alt="GitHub Contribution Graph" />
 </p>
-
----
-
-### 💖 Profile Picture:
-
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/117076934?v=4" width="150px"/>
+  <img src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif" width="250px"/>
 </p>
 
 ---
