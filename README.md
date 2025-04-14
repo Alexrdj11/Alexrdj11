@@ -51,11 +51,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alexrdj11&theme=react-dark" alt="GitHub Contribution Graph" />
-</p>
-<p align="left">
-  <img src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif" width="250px"/>
-</p>
-
 ---
 
 ### 🎨what can you find here:
