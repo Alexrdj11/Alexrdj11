@@ -1,4 +1,4 @@
-## Hi 👋! My name is Harsha Jain and I'm a 3rd year engineering student working on Artificial Intelligence & Machine Learning from India.
+## Hi 👋 i am Harsha a senior year engineering student from India
 
 ---
 
