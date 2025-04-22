@@ -5,7 +5,7 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alexrdj11&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Alexrdj11&show_icons=true&theme=radical" alt="GitHub Stats" width="38%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexrdj11&layout=compact&theme=radical" alt="Most Used Languages" width="28%"/>
 </p>
 
