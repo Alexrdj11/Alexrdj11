@@ -1,4 +1,4 @@
-## Hi 👋 i am Harsha a senior year engineering student from India
+## Harsha Jain | final year engineering student 
 
 ---
 
