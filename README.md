@@ -51,6 +51,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alexrdj11&theme=react-dark" alt="GitHub Contribution Graph" />
 ---
 
-### 🎨what can you find here:
 
-> "projects on machine learning and many more soon.. "
