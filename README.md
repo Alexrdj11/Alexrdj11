@@ -1,6 +1,6 @@
 ## Harsha Jain | final year engineering student 
 #### Hello friend...check this out to know more about me and lets connect to build something amazing...
-##🔗 https://hj-industries.onrender.com
+🔗 https://hj-industries.onrender.com
 
 ---
 
