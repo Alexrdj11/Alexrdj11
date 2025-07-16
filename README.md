@@ -51,4 +51,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alexrdj11&theme=react-dark" alt="GitHub Contribution Graph" />
 ---
 
-
+### Hello friend...check this out to know more about me and lets connect to build something amazing... https://hj-industries.onrender.com
