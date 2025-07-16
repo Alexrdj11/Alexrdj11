@@ -1,10 +1,10 @@
 ## Harsha Jain | final year engineering student 
 #### Hello friend...check this out to know more about me and lets connect to build something amazing...
-## https://hj-industries.onrender.com
+##🔗 https://hj-industries.onrender.com
 
 ---
 
-### 📊 GitHub Stats:
+###  GitHub Stats:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Alexrdj11&show_icons=true&theme=radical" alt="GitHub Stats" width="38%"/>
@@ -13,7 +13,7 @@
 
 ---
 
-### 🚀 Technologies & Tools:
+###  Technologies & Tools:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-239120?style=for-the-badge&logo=java&logoColor=white"/>
@@ -28,7 +28,7 @@
 
 ---
 
-### 📫 Connect with me:
+### Connect with me:
 
 <p align="center">
   <a href="https://instagram.com/hj_hj0502" target="_blank">
