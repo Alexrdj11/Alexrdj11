@@ -1,5 +1,5 @@
 ## Harsha Jain | final year engineering student 
-#### Hello friend...check this out to know more about me and lets connect to build something amazing...
+#### Hello friend...check this out to know more about me, lets connect to build something amazing...
 🔗 https://portfolio-358z.vercel.app/
 
 ---
